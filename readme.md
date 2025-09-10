@@ -45,5 +45,5 @@ I focused on building the site with good structure and accessibility:
 These small steps ensure the site works for more people and follows best practices.
 
 ## Links
-- **Live site (GitHub Pages): TBC
+- **Live site (GitHub Pages): [https://moniquetech.github.io/PersonalPortfolio/index.html](https://moniquetech.github.io/PersonalPortfolio/index.html)
 - **Public repository:** [https://github.com/MoniqueTech/PersonalPortfolio](https://github.com/MoniqueTech/PersonalPortfolio)
